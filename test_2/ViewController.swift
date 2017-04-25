@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Feature_1")
+        
+        print("New Feature")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
